@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="label_joker_hint">Aquí se mostrará el chiste.</string>
+    <string name="button_new_joker">Cuenta otro chiste</string>
+
+    <string name="joker_one">Por que a aranha é o animal mais carente do mundo?</string>
+    <string name="joker_two">Por que o pinheiro não se perde na floresta?</string>
+    <string name="joker_three">O que um pagodeiro foi fazer na igreja?</string>
+    <string name="joker_four">Por que o Napoleão era chamado sempre prasfestas?</string>
+    <string name="joker_five">Qual é o rei dos queijos?</string>
+    <string name="joker_six">Por que a velhinha não usa relógio?</string>
+    <string name="joker_seven">Quando os americanos comeram carne pela primeira vez?</string>
+
+    <string name="jokerAnswers_one">Porque ela é um arac need you.</string>
+    <string name="jokerAnswers_two">Porque ele tem uma pinha.</string>
+    <string name="jokerAnswers_three">Foi cantar PÁ GOD.</string>
+    <string name="jokerAnswers_four">Porque ele era BOM NA PARTY.</string>
+    <string name="jokerAnswers_five">É o reiqueijão.</string>
+    <string name="jokerAnswers_six">Porque ela é senhora.</string>
+    <string name="jokerAnswers_seven">Quando chegou Cristovão Com Lombo.</string>
+
+</resources>
